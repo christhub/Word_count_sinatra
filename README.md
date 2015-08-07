@@ -10,11 +10,9 @@ _{This application will take a word, and then read through a sentence to see how
 
 ## Setup
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+HEROKU:
+https://mysterious-ridge-9419.herokuapp.com
+
 
 _{Leave nothing to chance! You want it to be easy for potential employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Are there other applications this app depends on?}_
 
