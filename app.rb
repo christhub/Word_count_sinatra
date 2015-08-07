@@ -7,7 +7,7 @@ get('/') do
   erb(:index)
 end
 
-get('/coin_combo') do
-  @word_count_value = params.fetch('word_input').word_count('sentence_input')
-  erb(:change)
+get('/word_count') do
+  @word_count_value = params.fetch('word_input').word_count(params.fetch('sentence_input'))
+  erb(:count)
 end
