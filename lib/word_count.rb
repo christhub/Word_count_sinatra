@@ -32,7 +32,7 @@ class String
 
   message_array.push(target_word_counter)
   message_array.push(target_word)
-  message_array.push("(s) found in that sentence.")
+  message_array.push("found in that sentence.")
 
   stwing = message_array.join(" ")
 
