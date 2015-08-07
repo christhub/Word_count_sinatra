@@ -8,7 +8,7 @@ describe('the word_count_spec' , {:type => :feature}) do
     visit('/')
     fill_in("word_input", :with => "cat")
     fill_in("sentence_input", :with => "the cat and the hat ate with a cat under a mat")
-    click_button('Enter')
+    click_button('boom')
     expect(page).to have_content("2 cat")
   end
 end

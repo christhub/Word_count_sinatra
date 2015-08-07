@@ -1,15 +1,37 @@
 body {
   background-color: #3284BF;
+  text-align: center;
 }
 
 h1 {
   background-color: #3284BF;
+  text-align: center;
+  margin-top: 200px;
+  font-family: Ariel, sans-serif;
+  color: white;
 }
+
+h2 {
+  background-color: #3284BF;
+  text-align: center;
+  font-family: Ariel, sans-serif;
+  color: white;
+}
+
 
 p {
   background-color: #3284BF;
+  text-align: center;
 }
 
 title {
   background-color: #3284BF;
+  text-align: center;
+
+}
+
+.form-group {
+  font-family: Ariel, sans-serif;
+  font-size: 20;
+  color: white;
 }
